@@ -1,6 +1,6 @@
 1- Relógio Digital ⏰
 
-Projeto de um relógio digital desenvolvido em [linguagem usada].
+Projeto de um relógio digital desenvolvido em [Javascript].
 
 2- Funcionalidades
 - Exibe horas, minutos e segundos
